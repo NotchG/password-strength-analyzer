@@ -1,0 +1,5 @@
+fastapi
+pydantic
+mmh3
+bitarray
+uvicorn
